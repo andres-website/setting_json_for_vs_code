@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "Clouds",
+  
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+
+    "git.autofetch": true,
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.minimap.enabled": false,
+    "editor.matchBrackets": false, // выделение скобок
+
+
+    "editor.occurrencesHighlight": false, // отключает обведение слова в рамку при постановке в него курсора
+
+  
+  // Сомнительно, возможно скоро удалю
+    "editor.guides.bracketPairs" : true,
+    "editor.guides.highlightActiveIndentation" : false,
+    "editor.guides.bracketPairsHorizontal" : "active",
+    
+    "workbench.colorCustomizations": {
+        "[Clouds]": {
+          "editorBracketPairGuide.background1": "#e9e9e9",
+          "editorBracketPairGuide.background2": "#e9e9e9",
+          "editorBracketPairGuide.background3": "#e9e9e9",
+          "editorBracketPairGuide.background4": "#e9e9e9",
+          "editorBracketPairGuide.background5": "#e9e9e9",
+          "editorBracketPairGuide.background6": "#e9e9e9",
+          "editorBracketPairGuide.activeBackground1": "#e9e9e9",
+          "editorBracketPairGuide.activeBackground2": "#e9e9e9",
+          "editorBracketPairGuide.activeBackground3": "#e9e9e9",
+          "editorBracketPairGuide.activeBackground4": "#e9e9e9",
+          "editorBracketPairGuide.activeBackground5": "#e9e9e9",
+          "editorBracketPairGuide.activeBackground6": "#e9e9e9",
+    }
+}
