@@ -1,6 +1,12 @@
 {
     "workbench.colorTheme": "Clouds",
     "workbench.iconTheme": "material-icon-theme", // Иконки эксплорера
+    
+    "editor.codeLensFontFamily": "con",
+    "editor.fontFamily": "Consolas",
+    
+    "editor.links": false,  // Отключает подчёркивание ссылок (нужно лучшее решение, которое просто выключает подчёркивание,
+                            //  но не выключает переход по этим ссылкам) 
   
     // Отключает подсветку юникод символов в т.ч. русских букв
     "editor.unicodeHighlight.invisibleCharacters": false,
