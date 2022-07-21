@@ -1,21 +1,24 @@
 {
     "workbench.colorTheme": "Clouds",
+    "workbench.iconTheme": "material-icon-theme", // Иконки эксплорера
   
+    // Отключает подсветку юникод символов в т.ч. русских букв
     "editor.unicodeHighlight.invisibleCharacters": false,
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.unicodeHighlight.nonBasicASCII": false,
 
-    "git.autofetch": true,
-    "workbench.iconTheme": "material-icon-theme",
+    
 
-    "editor.minimap.enabled": false,
-    "editor.matchBrackets": false, // выделение скобок
+    "editor.minimap.enabled": false, // отключает мини карту справа
+    "editor.matchBrackets": false,  // отключает выделение скобок (трубует лучшего решения, так что бы скопки выделялить, 
+                                    //  когда курсор возле скобки, и не выделялись, когда курсор где то между скобками)
 
 
     "editor.occurrencesHighlight": false, // отключает обведение слова в рамку при постановке в него курсора
 
   
-  // Сомнительно, возможно скоро удалю
+  // Сомнительно, возможно скоро удалю (по идее должен раскрашивать вертикальные линии-направляющие отступов - в более светлый цвет, но хз
+  //    можно найти лучшее решение)
     "editor.guides.bracketPairs" : true,
     "editor.guides.highlightActiveIndentation" : false,
     "editor.guides.bracketPairsHorizontal" : "active",
