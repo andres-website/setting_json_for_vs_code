@@ -18,6 +18,8 @@
     "editor.minimap.enabled": false, // отключает мини карту справа
     "editor.matchBrackets": false,  // отключает выделение скобок (трубует лучшего решения, так что бы скопки выделялить, 
                                     //  когда курсор возле скобки, и не выделялись, когда курсор где то между скобками)
+    
+    "editor.insertSpaces": false, // отключает вставку пробелов вместро таба
 
 
     "editor.occurrencesHighlight": false, // отключает обведение слова в рамку при постановке в него курсора
@@ -43,5 +45,8 @@
           "editorBracketPairGuide.activeBackground4": "#e9e9e9",
           "editorBracketPairGuide.activeBackground5": "#e9e9e9",
           "editorBracketPairGuide.activeBackground6": "#e9e9e9",
-    }
+    },
+        
+    // не помню
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
 }
