@@ -1,3 +1,6 @@
+// cl + tab = console.log()
+// https://qna.habr.com/q/450401
+
 {
     "workbench.colorTheme": "Clouds",
     "workbench.iconTheme": "material-icon-theme", // Иконки эксплорера
